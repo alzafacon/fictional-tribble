@@ -12,6 +12,7 @@ metadata:
 spec: 
   lifecycle: experimental
   squad: eSOA
+  owner: ''
   averageResponseTime: 100ms
   maxResponseTime: 200ms
   type: service

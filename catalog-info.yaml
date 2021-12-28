@@ -12,7 +12,7 @@ metadata:
 spec: 
   lifecycle: experimental
   squad: eSOA
-  owner: ''
+  owner: 'foobar'
   averageResponseTime: 100ms
   maxResponseTime: 200ms
   type: service
